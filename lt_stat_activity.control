@@ -1,0 +1,6 @@
+# lt_stat_activity extension
+comment = 'lt_stat_activity'
+default_version = '1.1'
+module_pathname = '$libdir/lt_stat_activity'
+relocatable = true
+requires = 'lt_stat_statements'
